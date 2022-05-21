@@ -1,6 +1,6 @@
 # DeepLearning-Projects
 
-##1. Convolutional neural network - Image Classfication  https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/gender-classification-pytorch-CNN
+##1. Convolutional neural network - Image Classfication https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN
 
         The 2D convolution is a fairly simple operation at heart: you start with a kernel, which is simply a small matrix of weights.
         This kernel “slides” over the 2D input data, performing an elementwise multiplication with the part of the input it is currently on, and then summing up the results into a single output pixel.
