@@ -1,6 +1,4 @@
-# DeepLearning-Projects
-
-##1. Convolutional neural network - Image Classfication
+Convolutional neural network - Image Classfication
 
         The 2D convolution is a fairly simple operation at heart: you start with a kernel, which is simply a small matrix of weights.
         This kernel “slides” over the 2D input data, performing an elementwise multiplication with the part of the input it is currently on, and then summing up the results into a single output pixel.
@@ -18,6 +16,3 @@
         https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
 
         https://en.wikipedia.org/wiki/Convolutional_neural_network
-
-
-##2.
