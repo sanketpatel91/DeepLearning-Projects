@@ -9,9 +9,9 @@
 
 <details><summary>Table of Contents</summary><p>
 
-* [CNN Image Classfication](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN)
-* [Fashion MNIST Data Analysis using Keras Deep Learning](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/FASHION-MNIST-Keras-Deep-Learning)
-* [Pima Indians Diabetes Database](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Pima%20Indians%20Diabetes%20Database)
+* [CNN Image Classfication](#convolutional-neural-network---image-classficationhttpsgithubcomsanketpatel91deeplearning-projectstreemaingender-classification-pytorch-deep-learning-cnn)
+* [Fashion MNIST Data Analysis using Keras Deep Learning](#FASHION-MNIST-Keras-Deep-Learning)
+* [Pima Indians Diabetes Database](#pima-indians-diabetes-databasehttpsgithubcomsanketpatel91deeplearning-projectstreemainpima20indians20diabetes20database)
 </p></details><p></p>
 
 # [Convolutional neural network - Image Classfication](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN)
