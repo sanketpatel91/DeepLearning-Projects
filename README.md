@@ -9,12 +9,12 @@
 
 <details><summary>Table of Contents</summary><p>
 
-* [CNN Image Classfication]()
-* [Fashion MNIST Data Analysis using Keras Deep Learning]()
-* [Pima Indians Diabetes Database]()
+* [CNN Image Classfication](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN)
+* [Fashion MNIST Data Analysis using Keras Deep Learning](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/FASHION-MNIST-Keras-Deep-Learning)
+* [Pima Indians Diabetes Database](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Pima%20Indians%20Diabetes%20Database)
 </p></details><p></p>
 
-**1. [Convolutional neural network - Image Classfication](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN)**
+# [Convolutional neural network - Image Classfication](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Gender-Classification-Pytorch-Deep-Learning-CNN)
 
         The 2D convolution is a fairly simple operation at heart: you start with a kernel, which is simply a small matrix of weights.
         This kernel “slides” over the 2D input data, performing an elementwise multiplication with the part of the input it is currently on, and then summing up the results into a single output pixel.
@@ -34,13 +34,13 @@
         https://en.wikipedia.org/wiki/Convolutional_neural_network
 
 
-**2. [Fashion MNIST Data Analysis using Keras Deep Learning](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/FASHION-MNIST-Keras-Deep-Learning)**
+# [Fashion MNIST Data Analysis using Keras Deep Learning](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/FASHION-MNIST-Keras-Deep-Learning)
 
         Famous Fashion MNIST Dataset Analysis using Deep learning Keras.
 
         Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
-**3. [Pima Indians Diabetes Database](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Pima%20Indians%20Diabetes%20Database)**
+# [Pima Indians Diabetes Database](https://github.com/sanketpatel91/DeepLearning-Projects/tree/main/Pima%20Indians%20Diabetes%20Database)
 
         This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
